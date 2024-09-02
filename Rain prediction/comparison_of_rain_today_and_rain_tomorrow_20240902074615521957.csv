@@ -1,0 +1,5 @@
+RainToday,RainTomorrow,Count
+No,No,255
+No,Yes,45
+Yes,No,45
+Yes,Yes,21
